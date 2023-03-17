@@ -1,14 +1,14 @@
 use is_even_or_odd::IsEvenOrOdd;
 
-pub trait IsntEvenOrOdd {
-    fn isnt_even_or_odd(&self) -> bool;
+pub trait IsntEvenNorOdd {
+    fn isnt_even_nor_odd(&self) -> bool;
 }
 
 macro_rules! prim_impl {
     ($($t:tt)*) => {
         $(
-            impl IsntEvenOrOdd for $t {
-                fn isnt_even_or_odd(&self) -> bool {
+            impl IsntEvenNorOdd for $t {
+                fn isnt_even_nor_odd(&self) -> bool {
                     !self.is_even_or_odd()
                 }
             }

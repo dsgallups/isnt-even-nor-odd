@@ -1,14 +1,14 @@
-# isnt-even-or-odd
+# isnt-even-nor-odd
 
-Returns false if the given number is even or odd.
+Returns true if the given number isn't even nor odd.
 
 ## Install
 
-Specify the dependencty in Cargo.toml:
+Specify the dependency in Cargo.toml:
 
 ```yaml
 [dependencies]
-isnt-even-or-odd = "1"
+isnt-even-nor-odd = "1"
 ```
 
 Fetch it with cargo:
@@ -20,10 +20,10 @@ cargo build
 ## Usage
 
 ```rust
-use isnt_even_or_odd::IsntEvenOrOdd;
+use isnt_even_nor_odd::IsntEvenNorOdd;
 
 let _i : i32 = 1;
-println!("{}", _i.isnt_even_or_odd()); // prints true
+println!("{}", _i.isnt_even_nor_odd()); // prints true
 ```
 
 ## About
