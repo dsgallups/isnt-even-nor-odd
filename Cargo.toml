@@ -2,6 +2,12 @@
 name = "isnt-even-or-odd"
 version = "0.1.0"
 edition = "2021"
+authors = ["Daniel Gallups <dsgallups@protonmail.com>"]
+description = "Returns true if the given number isn't even or odd."
+repository = "https://github.com/dsgallups/isnt-even-or-odd"
+readme = "README.md"
+keywords = ["integer", "even", "odd", "math", "numeric"]
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
