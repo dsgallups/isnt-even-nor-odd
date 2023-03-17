@@ -1,6 +1,6 @@
 [package]
 name = "isnt-even-or-odd"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 authors = ["Daniel Gallups <dsgallups@protonmail.com>"]
 description = "Returns true if the given number isn't even or odd."
