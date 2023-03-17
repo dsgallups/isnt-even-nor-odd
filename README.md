@@ -30,5 +30,6 @@ println!("{}", _i.isnt_even_nor_odd()); // prints false
 
 ### License
 
-Copyright © 2018, [dsgallups](https://github.com/dsgallups).
+Credit to [purewhite](https://github.com/PureWhiteWu) because i just copy pasted all of this and reversed his dependency. the logic was too hard to understand for me so thakns for the boilerplate
+
 Released under the [MIT License](LICENSE).
