@@ -23,7 +23,7 @@ cargo build
 use isnt_even_or_odd::IsntEvenOrOdd;
 
 let _i : i32 = 1;
-println!("{}", _i.is_even_or_odd()); // prints true
+println!("{}", _i.isnt_even_or_odd()); // prints true
 ```
 
 ## About
