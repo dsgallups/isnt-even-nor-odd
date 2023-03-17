@@ -1,10 +1,10 @@
 [package]
-name = "isnt-even-or-odd"
+name = "isnt-even-nor-odd"
 version = "1.0.0"
 edition = "2021"
 authors = ["Daniel Gallups <dsgallups@protonmail.com>"]
 description = "Returns true if the given number isn't even or odd."
-repository = "https://github.com/dsgallups/isnt-even-or-odd"
+repository = "https://github.com/dsgallups/isnt-even-nor-odd"
 readme = "README.md"
 keywords = ["integer", "even", "odd", "math", "numeric"]
 license = "MIT"
