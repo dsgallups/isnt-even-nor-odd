@@ -1,13 +1,14 @@
 [package]
 name = "isnt-even-nor-odd"
-version = "1.0.1"
-edition = "2021"
+version = "2.0.0"
+edition = "2024"
 authors = ["Daniel Gallups <dsgallups@protonmail.com>"]
 description = "Returns true if the given number isn't even or odd."
 repository = "https://github.com/dsgallups/isnt-even-nor-odd"
 readme = "README.md"
 keywords = ["integer", "even", "odd", "math", "numeric"]
 license = "MIT"
+im_a_teapot = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
